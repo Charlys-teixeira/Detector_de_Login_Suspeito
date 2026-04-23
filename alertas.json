@@ -1,0 +1,15 @@
+[
+    {
+        "ip": "192.168.0.10",
+        "tipo": "brute_force",
+        "tentativas": 5,
+        "tempo": 4
+    },
+    {
+        "usuario": "admin",
+        "tipo": "brute_force_usuario",
+        "tentativas": 5,
+        "tempo": 4,
+        "ips_unicos": 1
+    }
+]
